@@ -1,14 +1,33 @@
 # Meet Your Faculty
 
-<!--#### NAME
+#### Dr. Linglong Kong
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+<img src="./img/faculty/LinglongKong.jpg" width="200" alt="Photo of Dr. Linglong Kong">
 
->JOB TITLE <br>
-INSTITUTION <br>
-LOCATION
->
-> --- CONTACT INFO, IF PROVIDED
+Professor <br>
+University of Alberta <br>
+Alberta, Canada
 
-BIO GOES HERE-->
 
+Dr. Linglong Kong is a Professor in the Department of Mathematical and Statistical Sciences at the University of Alberta, holding a Canada Research Chair in Statistical Learning and a Canada CIFAR AI Chair. He is a Fellow of the American Statistical Association (ASA) and the Alberta Machine Intelligence Institute (Amii), with over 120 peer-reviewed publications in leading journals and conferences such as AOS, JASA, JRSSB, NeurIPS, ICML, and ICLR. Dr. Kong received the 2025 CRM-SSC Prize for outstanding research in Canada. He serves as Associate Editor for several top journals, including JASA and AOAS, and has held leadership roles within the ASA and the Statistical Society of Canada. Dr. Kong's research interests include high-dimensional and neuroimaging data analysis, statistical machine learning, robust statistics, quantile regression, trustworthy machine learning, and artificial intelligence for smart health.
+
+#### Ce Zhang
+
+<img src="./img/faculty/CeZhang.jpg" width="200" alt="Photo of Ce Zhang">
+
+Ph.D. Student <br>
+University of Alberta <br>
+Alberta, Canada
+
+Ce Zhang is a Ph.D. student in the Department of Mathematical and Statistical Sciences at the University of Alberta, majoring in Statistics. He is co-supervised by Prof. Linglong Kong and Prof. Bei Jiang. His research focuses on constructing efficient prediction bands, with particular interests in differential privacy, transfer learning and subsampling methods.
+
+
+#### Enze Shi
+
+<img src="./img/faculty/EnzeShi.jpeg" width="200" alt="Photo of Enze Shi">
+
+Ph.D. Student <br>
+University of Alberta <br>
+Alberta, Canada
+
+Enze Shi is a Ph.D. student in the Department of Mathematical and Statistical Sciences at the University of Alberta, majoring in Statistical Machine Learning. He is co-supervised by Prof. Linglong Kong and Prof. Bei Jiang. His research focuses on developing trustworthy and ethical AI systems, with particular interests in fairness-aware learning, differential privacy and online learning.
