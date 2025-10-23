@@ -17,3 +17,7 @@
 [Assignment_data2.txt](https://drive.google.com/file/d/1QK9T5i4nDND7lsiKgPQQF0cf9_sG5J-n/view?usp=drive_link)   
 
 [IntroToR_Day1_Assg2.R](https://drive.google.com/file/d/12UVwIQFFTHhs1UdM8lXUhjhh1MpSY0Hq/view?usp=drive_link)  
+
+-----------
+
+[Lab 2 Example Solution](https://drive.google.com/file/d/13CRlbFplikEeElmLUrXty1Jan4bpWi2n/view?usp=drive_link)  
