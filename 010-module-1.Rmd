@@ -7,7 +7,17 @@
 <!--<iframe width="640" height="360" src="YOUTUBE EMBED LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 
-<!--<iframe src="GOOGLE SLIDES LINK/preview" width="640" height="480" allow="autoplay"></iframe>  
--->
+<iframe src="https://docs.google.com/presentation/d/1pQP8e2ZpBinc3Bnc-Lljo5bZ7BtGGfKa/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Lab
+[Example_data1.csv](https://drive.google.com/file/d/1AFA7eFPhGfYAXtIGnUHk6TZdPjdJfLtM/view?usp=drive_link)  
+
+[IntroToR_PreWork_master.R](https://drive.google.com/file/d/1QPpFTayGQ8TcITrQsnWECdW2binMJCqo/view?usp=drive_link)  
+
+----------  
+
+[Assignment_data1.csv](https://drive.google.com/file/d/1ILrI1cFwyqSJnhRO0aESOjwPIga-pVWC/view?usp=drive_link)  
+
+[IntroToR_Day1_Assg1.R](https://drive.google.com/file/d/1viI-hBH-c7IM47B6UOcwlyuCatE2cgK1/view?usp=drive_link)  
+
+ 

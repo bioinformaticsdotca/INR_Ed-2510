@@ -1,6 +1,7 @@
 # Module 3
 
 ## Lecture
-
+<iframe src="https://docs.google.com/presentation/d/1ObkaEBYlpKLBavHNp_XCK8hPWVXxuxcZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Lab
+[IntroToR_Day1_Script2_and_Day2.R](https://drive.google.com/file/d/1IrfQhNDEJjU_hbonqJsfIs2dKYCTG2XW/view?usp=sharing)
