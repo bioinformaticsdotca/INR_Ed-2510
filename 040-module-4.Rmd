@@ -3,5 +3,12 @@
 ## Lecture
 <iframe src="https://docs.google.com/presentation/d/1ObkaEBYlpKLBavHNp_XCK8hPWVXxuxcZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
+## Rmd Lecture
+<iframe src="https://docs.google.com/presentation/d/1IXFBcc3hjcD8387R9euqqLhcFBi0Kveb/preview" width="640" height="480" allow="autoplay"></iframe>  
+
 ## Lab
-[IntroToR_Day1_Script2_and_Day2.R](https://drive.google.com/file/d/1IrfQhNDEJjU_hbonqJsfIs2dKYCTG2XW/view?usp=sharing)
+[IntroToR_Day1_Script2_and_Day2.R](https://drive.google.com/file/d/1IrfQhNDEJjU_hbonqJsfIs2dKYCTG2XW/view?usp=sharing)  
+
+[Example_data2_v2.txt](https://drive.google.com/file/d/10gWM1JmEubza2_ZKEAnPKCEOD3tgKl6v/view?usp=drive_link)  
+
+[rmd_tutorial_main.Rmd](https://drive.google.com/file/d/1UD_v92yb3y6xMWlsR9zqn0aPdEFtZQxP/view?usp=drive_link)  
