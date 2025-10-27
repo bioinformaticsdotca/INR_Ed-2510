@@ -26,7 +26,7 @@ Welcome to the 2025 Introduction to R Canadian Bioinformatics Workshop webpage!
 
 ## Class Photo
 
-Coming soon! 
+<img src="./img/INR_Ed_2510_GroupPhoto.png" width="500" alt="Group photo of workshop participants and faculty">
 
 ## Schedule
 
